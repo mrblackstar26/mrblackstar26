@@ -1,4 +1,4 @@
-![logo](https://github.com/mrblackstar26/mrblackstar26/blob/main/Github%20Banner.png)
+![logo](https://github.com/mrblackstar26/mrblackstar26/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Uday Patel</h1>
 <h3 align="center">A passionate Security Analyst from India</h3>
 
