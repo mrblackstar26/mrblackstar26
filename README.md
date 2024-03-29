@@ -1,6 +1,6 @@
 ![logo](https://github.com/mrblackstar26/mrblackstar26/blob/main/pic.png)
 <h1 align="center">Hi 👋, I'm Uday Patel</h1>
-<h3 align="center">A passionate Security Analyst from India</h3>
+<h3 align="center">A Passionate Application Security Analyst from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
